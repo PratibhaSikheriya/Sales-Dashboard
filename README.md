@@ -51,16 +51,6 @@ Each record has: transaction id, date, country, product, category, unit price, q
 * A small number of reps making most sales = replicate their approach.
 * One country dominating revenue = check scale vs margin.
 
----
-
-## Presentation tips (for your portfolio)
-
-* Start with 3 KPIs (Sales, Profit, Avg Order).
-* Follow with a time chart and a Top-5 product list.
-* Add one map or store leaderboard for geographic context.
-* Keep visuals uncluttered — one message per chart.
-
----
 
 ## Files included
 
